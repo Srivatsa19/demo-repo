@@ -1,7 +1,10 @@
 # Demo
 
 Description!
+
  ## Sub header
 
+Everything about the project.
 
- watching free code camp!!
+
+1. Open the html file in the browser.
